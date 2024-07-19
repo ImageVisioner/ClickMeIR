@@ -1,3 +1,7 @@
+**20240719 Update**  
+All code can run successfully on Ubuntu 20.04 LTS, Mac OS, and Windows 10.     
+
+
 **20240718 Update**  
 We will gradually update the code of the comparison method. It can be found in our CompareMethod folder.
 
