@@ -14,4 +14,4 @@ We refactored the code to support both annotation styles.
 We will release a annotation tool.   
 
 **Note**     
-*Our interactive platform is designed based on **MatLab App Designer**. This is a new object-oriented GUI design platform. Please learn how to use this platform before using it.* 
+*Our interactive platform is designed based on **MatLab App Designer**. This is a new **OOP** GUI design platform. Please learn how to use this platform before using it.* 
