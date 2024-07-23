@@ -13,5 +13,12 @@ We refactored the code to support both annotation styles.
 **20240715 Update**  
 We will release a annotation tool.   
 
+
+
+**Part Result**
+<div align=center>
+	<img src="[C:\Users\ImageVisioner\Desktop\img.jpg](https://github.com/user-attachments/assets/414c67ad-936e-442c-b553-d266e3471843)"/>
+</div>
+
 **Note**     
 *Our interactive platform is designed based on **MatLab App Designer**. This is a new **OOP** GUI design platform. Please learn how to use this platform before using it.* 
