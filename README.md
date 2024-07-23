@@ -15,9 +15,10 @@ We will release a annotation tool.
 
 
 
-**Part Result**
-<div align=center>
-	<img src="(https://github.com/user-attachments/assets/414c67ad-936e-442c-b553-d266e3471843)"/>
+
+**Part Result:**
+<div align=center scale=0.75>
+	<img src="https://github.com/user-attachments/assets/5d55b5bb-f401-4a64-ba44-992b43f822b5"/>
 </div>
 
 **Note**     
