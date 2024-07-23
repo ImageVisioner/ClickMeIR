@@ -17,7 +17,7 @@ We will release a annotation tool.
 
 **Part Result**
 <div align=center>
-	<img src="[C:\Users\ImageVisioner\Desktop\img.jpg](https://github.com/user-attachments/assets/414c67ad-936e-442c-b553-d266e3471843)"/>
+	<img src="(https://github.com/user-attachments/assets/414c67ad-936e-442c-b553-d266e3471843)"/>
 </div>
 
 **Note**     
