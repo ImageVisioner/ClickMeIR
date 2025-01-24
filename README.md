@@ -1,4 +1,3 @@
-
 **Part Result:**   
 <div align=center scale=0.75>
 	<img src="https://github.com/user-attachments/assets/5d55b5bb-f401-4a64-ba44-992b43f822b5"/>
