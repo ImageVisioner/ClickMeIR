@@ -6,11 +6,32 @@ The manuscript has been submitted to IEEE SENSOR JOURNAL. All codes will be rele
 
 
 
-**Part Result:**   
+**Results:** 
+
+Compare the visualization results obtained from our method with different learning-based methods.Infrared small targets are emphasized and magnified by red rectangles.
+
+---
+<center>
+<img src="Figure/result1.jpg" width=75%>
+</center>
 
 
-<div align=center scale=0.75>
-	<img src="https://github.com/user-attachments/assets/5d55b5bb-f401-4a64-ba44-992b43f822b5"/>
-</div>
+------
+
+<center>
+<img src="Figure/image.png" width=80%>
+</center>
 
 
+
+
+
+**Others:**   
+
+
+
+
+**References** 
+If our work is useful to you please cite us.  
+
+will come soon
