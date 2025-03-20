@@ -26,8 +26,14 @@ Compare the visualization results obtained from our method with different learni
 
 
 
-**Others:**   
 
+
+**GUI SoftWare**   
+We have designed an app using Maltab App Designer to help users quickly annotate. We will release our software after the manuscript is accepted. 
+
+<center>
+<img src="Figure/software.jpg " width=80%>
+</center>
 
 
 
