@@ -32,7 +32,7 @@ Compare the visualization results obtained from our method with different learni
 We have designed an app using Maltab App Designer to help users quickly annotate. We will release our software after the manuscript is accepted. 
 
 <center>
-<img src="Figure/software.jpg " width=80%>
+<img src="Figure/software.jpg " width=90%>
 </center>
 
 
