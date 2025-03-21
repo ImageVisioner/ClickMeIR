@@ -44,14 +44,14 @@ Furthermore, the annotated XML tool functions we provide are an extension packag
 ---
 Annotate on the drone
 <center>
-<img src="Figure/uavXML.JPG" width=65%>
+<img src="Figure/uavXML.jpg" width=65%>
 </center>
 
 ---
 
 Annotate on the regual image object
 <center>
-<img src="Figure/peoXML.JPG" width=50%>
+<img src="Figure/peoXML.jpg" width=50%>
 </center>
 
 
