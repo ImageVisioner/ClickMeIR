@@ -11,6 +11,8 @@ The manuscript has been submitted to IEEE Transactions on Geoscience and Remote 
 Compare the visualization results obtained from our method with different learning-based methods.Infrared small targets are emphasized and magnified by red rectangles.
 
 ---
+
+
 <center>
 <img src="Figure/result1.jpg" width=75%>
 </center>
