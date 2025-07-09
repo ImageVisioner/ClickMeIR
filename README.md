@@ -2,7 +2,7 @@
 
 We utilize the global and local prior characteristics of  infrared  small  targets and propose a level-set annotation pipeline.
 
-The manuscript has been submitted to Knowledge-based Systems  . All codes will be released after the manuscript is accepted.
+The manuscript has been submitted to Displays . All codes will be released after the manuscript is accepted.
 
 
 
