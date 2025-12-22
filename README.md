@@ -1,4 +1,5 @@
 **Note:**   
+Congratulations! Our work has been accepted by the journal Optics and Laser Technology. We will provide the complete code after its official publication.   
 
 We utilize the global and local prior characteristics of  infrared  small  targets and propose a level-set annotation pipeline.
 
